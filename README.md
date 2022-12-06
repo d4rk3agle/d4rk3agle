@@ -1,4 +1,3 @@
-- 👋 Hi, I’m d4ark3agle
 - 👀 I’m interested in Cryptography, Malware analysis, Reverse engineering, and binary exploitation
 - 🌱 I’m currently learning Cryptography
 - 💞️ I’m looking to collaborate on Cybersecurity and its relevants
